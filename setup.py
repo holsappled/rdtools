@@ -32,6 +32,7 @@ INSTALL_REQUIRES = [
     'scipy >= 0.19.1',
     'patsy >= 0.4.1',
     'h5py >= 2.7.1',
+    'matplotlib >= 2.2.3',
     'pytz',
     'six',
 ]
